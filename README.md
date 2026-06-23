@@ -285,10 +285,6 @@ streamlit run app.py
 
 **Shaik Azra Nigar**
 
-GitHub: https://github.com/YOUR_USERNAME
-
-LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN/
-
 ---
 
 ## ⭐ If you found this project useful, consider giving it a star!
